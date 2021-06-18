@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MLAppCarDekho.iml" filepath="$PROJECT_DIR$/.idea/MLAppCarDekho.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PA0_1/.idea/PA0_1.iml" filepath="$USER_HOME$/PycharmProjects/PA0_1/.idea/PA0_1.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/cpp_exs/submissions/.idea/submissions.iml" filepath="$USER_HOME$/Documents/cpp_exs/submissions/.idea/submissions.iml" />
+    </modules>
+  </component>
+</project>
