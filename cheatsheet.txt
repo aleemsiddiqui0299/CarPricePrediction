@@ -3,6 +3,7 @@ git config --global user.name myusename
 git config --global user.email myemail
 git init
 git add . (adds to staging area)
+git commit -m "Commit description"
 git status #checks the status 
 ssh-keygen -t rsa -b 4096 -C "myemail"
 tail <path to id_rsa> #Add this key to Github account
