@@ -1,9 +1,21 @@
 body {
-  background-color: lightslategray;
-  text-align: center;
-  padding: 0px;
-}
+  /* background-color: lightgreen;
+     */
+  height: 100%;
+  background-image: url("../wallpaper.jpg");
+  animation: clouds_anim 75s linear infinite;
+  /* background-repeat: no-repeat; */
 
+  text-align: center;
+}
+@keyframes clouds_anim {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -2122px;
+  }
+}
 #research {
   font-size: 18px;
   width: 100px;
