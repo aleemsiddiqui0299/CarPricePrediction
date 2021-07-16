@@ -2,8 +2,8 @@ body {
   /* background-color: lightgreen;
      */
   height: 100%;
-  background-image: url("../wallpaper.jpg");
-  animation: clouds_anim 75s linear infinite;
+  /* background-image: url("../wallpaper.jpg");
+  animation: clouds_anim 75s linear infinite; */
   /* background-repeat: no-repeat; */
 
   text-align: center;
